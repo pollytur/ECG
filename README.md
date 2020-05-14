@@ -1,6 +1,8 @@
 # ECG
 Project on writing a library for ECG processing oriented on lab anymals: dogs, rabbits and mice.
 
+Pull the code and run ```python setup.py build``` from the root directory. Than you can use it as a package.
+
 ```from ecg_detection import ecg```
 
 To use it on your own dataset, change the path : ```ecg.path ='my/path'```
